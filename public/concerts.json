@@ -1,0 +1,52 @@
+{
+  "concerts": {
+    "id": 1,
+    "name": "Concierto dejemplo",
+    "date": "2023-11-01T10:00:00Z",
+    "place": "Movistar Arena",
+    "stock": 100,
+    "ticketPrice": 50
+  },
+  "reservations": [
+    {
+      "id": 1,
+      "quantity": 2,
+      "status": true,
+      "createAt": "2023-11-25T10:00:00Z",
+      "concertId": 1
+    },
+    {
+      "id": 2,
+      "quantity": 4,
+      "status": true,
+      "createAt": "2023-11-26T15:30:00Z",
+      "concertId": 1
+    }
+  ],
+  "pendingReservations": [
+    {
+      "id": 3,
+      "quantity": 1,
+      "status": false,
+      "concertId": 1,
+      "createAt": "2023-11-09T18:24:12.282Z",
+      "updatedAt": "2023-11-09T18:24:12.282Z"
+    },
+    {
+      "id": 4,
+      "quantity": 1,
+      "status": false,
+      "concertId": 1,
+      "createAt": "2023-11-09T18:24:16.468Z",
+      "updatedAt": "2023-11-09T18:24:16.468Z"
+    },
+    {
+      "id": 5,
+      "quantity": 1,
+      "status": false,
+      "concertId": 1,
+      "createAt": "2023-11-09T18:24:18.417Z",
+      "updatedAt": "2023-11-09T18:24:18.417Z"
+    }
+  ]
+}
