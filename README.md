@@ -1,3 +1,4 @@
+
 # Tickets_Challenge
 
 My challenge Solution from [Desafío Técnico - API Reserva de Boletos](https://docs.google.com/document/d/1toK6r6aDMXhJxVhMsQiwRn9tgPfVjoKfyQNTEchSWNQ/edit?usp=sharing/)
@@ -8,13 +9,13 @@ My challenge Solution from [Desafío Técnico - API Reserva de Boletos](https://
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/GJVizconde/tickets_challenge_auth.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd tickets_challenge_auth
 ```
 
 Install dependencies
@@ -26,7 +27,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run dev
 ```
 
 
@@ -59,4 +60,5 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 
