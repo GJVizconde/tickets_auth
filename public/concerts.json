@@ -33,20 +33,12 @@
       "updatedAt": "2023-11-09T18:24:12.282Z"
     },
     {
-      "id": 4,
+      "id": 20,
       "quantity": 1,
       "status": false,
       "concertId": 1,
       "createAt": "2023-11-09T18:24:16.468Z",
       "updatedAt": "2023-11-09T18:24:16.468Z"
-    },
-    {
-      "id": 5,
-      "quantity": 1,
-      "status": false,
-      "concertId": 1,
-      "createAt": "2023-11-09T18:24:18.417Z",
-      "updatedAt": "2023-11-09T18:24:18.417Z"
     }
   ]
 }
