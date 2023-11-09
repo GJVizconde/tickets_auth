@@ -1,4 +1,4 @@
-# Tickets_Challenge_Auth
+# Tickets_Challenge
 
 My challenge Solution from [Desafío Técnico - API Reserva de Boletos](https://docs.google.com/document/d/1toK6r6aDMXhJxVhMsQiwRn9tgPfVjoKfyQNTEchSWNQ/edit?usp=sharing/)
 
